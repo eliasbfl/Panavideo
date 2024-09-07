@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM14",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "files.associations": {
+    "spi_reg.h": "c",
+    "spi_struct.h": "c",
+    "gpio_sig_map.h": "c",
+    "esp_rom_gpio.h": "c",
+    "wim_ios.h": "c",
+    "pcnt.h": "c",
+    "timer.h": "c"
+  }
+}
